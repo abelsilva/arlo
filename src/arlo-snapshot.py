@@ -1,3 +1,5 @@
+import os
+
 from Arlo import Arlo
 
 USERNAME = os.environ['USERNAME']
